@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin: 200px auto;
+}
+
+h1 {
+    color: red;
+}
+
+h2{
+    color: cadetblue;
+}
+
+p {
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
